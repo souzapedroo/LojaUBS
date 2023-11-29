@@ -19,6 +19,5 @@ if(!defined('ACCESS')){
             </ul>
         </div>
     </div>
-
-        
+    
 </nav>
